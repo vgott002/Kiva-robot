@@ -1,0 +1,12 @@
+public class Main {
+  static void liftingweights() {
+    System.out.println("I just got executed!");
+  }
+static void motor(){
+}
+
+  public static void main(String[] args) {
+    liftingweights();
+motor();
+  }
+}
